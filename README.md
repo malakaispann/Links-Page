@@ -10,5 +10,6 @@ This code can be re-used without informing me as long as:
 
 ![Finished Product](./assets/Finished_Product.png)
 
-Best,
-- Kayy
+Thanks,
+
+\- Kayy
