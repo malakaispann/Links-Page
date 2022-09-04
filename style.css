@@ -88,7 +88,7 @@ ul > li > a > .logo {
   width: 100%;
   background-repeat: no-repeat;
   background-size: cover;
-  filter: blur(2px);
+  filter: blur(4px);
   z-index: 1;
 }
 
