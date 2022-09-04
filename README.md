@@ -9,3 +9,6 @@ This code can be re-used without informing me as long as:
 ## Product: 
 
 ![Finished Product](./assets/Finished_Product.png)
+
+Best,
+- Kayy
